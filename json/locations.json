@@ -1740,9 +1740,20 @@
         "title": "ΑΡΕΤΑΙΕΙΟ ΑΘΗΝΩΝ",
         "position": { "lat": 37.9797, "lng": 23.7545},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [2,4,6,8,9,10,13,21,26,28,32,38],
         "years": {
-
+            "2" : "Πλήρης Χρόνος",
+            "4" : "Πλήρης Χρόνος",
+            "6" : "6 μήνες νεογνολογία",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "13" : "Πλήρης Χρόνος",
+            "21" : "Πλήρης Χρόνος",
+            "26" : "Πλήρης Χρόνος",
+            "28" : "Πλήρης Χρόνος",
+            "32" : "Πλήρης Χρόνος",
+            "38" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -1750,9 +1761,36 @@
         "title": "ΑΤΤΙΚΟ",
         "position": { "lat": 38.0164, "lng": 23.6662},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,20,21,24,26,27,28,29,32,33,34,39],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "2" : "Πλήρης Χρόνος",
+            "3" : "Πλήρης Χρόνος",
+            "4" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "6" : "Πλήρης Χρόνος",
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "12" : "Πλήρης Χρόνος",
+            "13" : "Πλήρης Χρόνος",
+            "14" : "Πλήρης Χρόνος",
+            "15" : "Πλήρης Χρόνος",
+            "16" : "Πλήρης Χρόνος",
+            "17" : "Πλήρης Χρόνος",
+            "18" : "Πλήρης Χρόνος",
+            "20" : "Πλήρης Χρόνος",
+            "21" : "Πλήρης Χρόνος",
+            "24" : "Πλήρης Χρόνος",
+            "26" : "Πλήρης Χρόνος",
+            "27" : "Πλήρης Χρόνος",
+            "28" : "Πλήρης Χρόνος",
+            "29" : "Πλήρης Χρόνος",
+            "32" : "Πλήρης Χρόνος",
+            "33" : "Πλήρης Χρόνος",
+            "34" : "Πλήρης Χρόνος",
+            "39" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -1770,9 +1808,19 @@
         "title": "Π.Γ.Ν. ΠΑΙΔΩΝ ΑΓΛΑΪΑ ΚΥΡΙΑΚΟΥ",
         "position": { "lat": 37.9850, "lng": 23.7677},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [2,3,6,8,9,12,15,18,23,30,34],
         "years": {
-
+            "2" : 2,
+            "3" : 1,
+            "6" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : 2,
+            "12" : 1.5,
+            "15" : 2,
+            "18" : "Πλήρης Χρόνος",
+            "23" : "Πλήρης Χρόνος",
+            "30" : "Πλήρης Χρόνος",
+            "34" : 2
         }
     },
     {
@@ -1790,9 +1838,24 @@
         "title": "Π.Γ.Ν. ΠΑΙΔΩΝ ¨ΑΓΙΑ ΣΟΦΙΑ¨",
         "position": { "lat": 37.9853, "lng": 23.7691},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [2,3,6,7,8,9,10,12,15,17,20,22,23,28,30,34],
         "years": {
-
+            "2" : 2,
+            "3" : 1,
+            "6" : "Πλήρης Χρόνος",
+            "7" : 1,
+            "8" : "Πλήρης Χρόνος",
+            "9" : 2,
+            "10" : 1.5,
+            "12" : 2,
+            "15" : 2,
+            "17" : "Πλήρης Χρόνος",
+            "20" : 1,
+            "22" : 1,
+            "23" : "Πλήρης Χρόνος",
+            "28" : 1,
+            "30" : "Πλήρης Χρόνος",
+            "34" : 2
         }
     },
     {
@@ -1810,9 +1873,12 @@
         "title": "Αιγινήτειο",
         "position": { "lat": 37.9794, "lng": 23.7554},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [8,14,20,30],
         "years": {
-
+            "8" : "Πλήρης Χρόνος",
+            "14" : "Πλήρης Χρόνος",
+            "20" : "Πλήρης Χρόνος",
+            "30" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -1830,9 +1896,9 @@
         "title": "ΣΠΗΛΙΟΠΟΥΛΕΙΟ ΝΟΣ. (ΑΓΙΑ ΕΛΕΝΗ)",
         "position": { "lat": 37.9842, "lng": 23.7566},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1],
         "years": {
-
+            "1" : 3
         }
     },
     {
@@ -1850,9 +1916,26 @@
         "title": "Π.Α.Ο.Ν.Α. ΑΓΙΟΣ ΣΑΒΒΑΣ",
         "position": { "lat": 37.9883, "lng": 23.7554},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,3,4,7,8,9,10,15,16,17,22,25,26,28,29,32,38],
         "years": {
-
+            "1" : 2,
+            "2" : "2, μόνο 2ο και 3ο έτος",
+            "3" : 2,
+            "4" : "2 και 3 μήνες",
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "15" : "Πλήρης Χρόνος",
+            "16" : "Πλήρης Χρόνος",
+            "17" : "Πλήρης Χρόνος",
+            "22" : "Πλήρης Χρόνος",
+            "25" : "Πλήρης Χρόνος",
+            "26" : "Πλήρης Χρόνος",
+            "28" : "Πλήρης Χρόνος",
+            "29" : "Πλήρης Χρόνος",
+            "32" : "Πλήρης Χρόνος",
+            "38" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -1867,12 +1950,51 @@
     },
     {
         "region": "Αττική",
-        "title": "Γ.Ν. ΑΤΤΙΚΗΣ ΣΙΣΜΑΝΟΓΛΕΙΟ-ΑΜΑΛΙΑ ΦΛΕΜΙΓΚ",
+        "title": "Γ.Ν. ΑΤΤΙΚΗΣ ΣΙΣΜΑΝΟΓΛΕΙΟ",
         "position": { "lat": 38.0460, "lng": 23.8287},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,5,8,9,10,12,13,14,16,17,21,24,27,28,30,35,38],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "2" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "12" : "Πλήρης Χρόνος",
+            "13" : 1,
+            "14" : "Πλήρης Χρόνος",
+            "16" : "Πλήρης Χρόνος",
+            "17" : "Πλήρης Χρόνος",
+            "21" : "Πλήρης Χρόνος",
+            "24" : "Πλήρης Χρόνος",
+            "27" : "Πλήρης Χρόνος",
+            "28" : "Πλήρης Χρόνος",
+            "30" : "Πλήρης Χρόνος",
+            "35" : "Πλήρης Χρόνος",
+            "38" : "Πλήρης Χρόνος"
+        }
+    },
+    {
+        "region": "Αττική",
+        "title": "ΑΜΑΛΙΑ ΦΛΕΜΙΓΚ",
+        "position": { "lat": 38.054351, "lng": 23.834865},
+        "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
+        "specialties": [1,2,3,5,7,8,9,10,13,15,27,28,34],
+        "years": {
+            "1" : "Πλήρης Χρόνος",
+            "2" : "Πλήρης Χρόνος",
+            "3" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "13" : "Πλήρης Χρόνος",
+            "15" : "Πλήρης Χρόνος",
+            "27" : "Πλήρης Χρόνος",
+            "28" : 2,
+            "34" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -1950,9 +2072,23 @@
         "title": "Π.Γ.Ν. ΑΛΕΞΑΝΔΡΑ",
         "position": { "lat": 37.9801, "lng": 23.7555},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,4,5,6,8,9,13,16,17,26,28,29,32,34,38],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "4" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "6" : 0.5,
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "13" : "Πλήρης Χρόνος",
+            "16" : "Πλήρης Χρόνος",
+            "17" : "Πλήρης Χρόνος",
+            "26" : "Πλήρης Χρόνος",
+            "28" : 2,
+            "29" : "Πλήρης Χρόνος",
+            "32" : "Πλήρης Χρόνος",
+            "34" : "Πλήρης Χρόνος",
+            "38" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -1960,9 +2096,14 @@
         "title": "Γ.Ν. ΜΑΙΕΥΤΗΡΙΟ ¨ΕΛΕΝΑ ΒΕΝΙΖΕΛΟΥ¨",
         "position": { "lat": 37.9849, "lng": 23.7556},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,4,8,17,23,34],
         "years": {
-
+            "1" : 1,
+            "4" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "17" : 0.5,
+            "23" : "Πλήρης Χρόνος",
+            "34" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2000,9 +2141,10 @@
         "title": "ΝΟΣ. ΑΦΡΟΔΙΣΙΩΝ ΚΑΙ ΔΕΡΜΑΤΟΛΟΓΙΚΩΝ ΝΟΣΗΜΑΤΩΝ ¨ΑΝΤΡΕΑΣ ΣΥΓΓΡΟΣ¨",
         "position": { "lat": 37.9736, "lng": 23.7520},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [8,33],
         "years": {
-
+            "8" : 2,
+            "33" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2060,9 +2202,15 @@
         "title": "ΟΓΚΟΛΟΓΙΚΟ ΝΟΣ. ¨ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ¨",
         "position": { "lat": 38.0803, "lng": 23.7714},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,8,9,25,27,32],
         "years": {
-
+            "1" : 2,
+            "2" : 3,
+            "8" : 2,
+            "9" : "Πλήρης Χρόνος",
+            "25" : "Πλήρης Χρόνος",
+            "27" : "Πλήρης Χρόνος",
+            "32" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2070,9 +2218,18 @@
         "title": "ΠΑΙΔΩΝ ΠΕΝΤΕΛΗΣ",
         "position": { "lat": 38.0509, "lng": 23.8755},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [2,3,6,8,9,12,15,20,23,30],
         "years": {
-
+            "2" : 1,
+            "3" : 1,
+            "6" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : 1.5,
+            "12" : 1.5,
+            "15" : 1,
+            "20" : 0.5,
+            "23" : 1,
+            "30" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2110,9 +2267,23 @@
         "title": "ΑΣΚΛΗΠΙΕΙΟ ΒΟΥΛΑΣ",
         "position": { "lat": 37.8489, "lng": 23.7556},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,3,5,6,7,8,9,10,11,12,19,22,30,31],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "2" : "Πλήρης Χρόνος",
+            "3" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "6" : 2,
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "11" : "Πλήρης Χρόνος",
+            "12" : "Πλήρης Χρόνος",
+            "19" : "Πλήρης Χρόνος",
+            "22" : "Πλήρης Χρόνος",
+            "30" : "Πλήρης Χρόνος",
+            "31" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2140,9 +2311,25 @@
         "title": "251 Γ.Ν.Α.",
         "position": { "lat": 37.9892, "lng": 23.7805},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,3,5,7,8,9,10,11,12,14,15,16,20,27,28,29],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "2" : 3,
+            "3" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : 4,
+            "10" :"Πλήρης Χρόνος" ,
+            "11" : "Πλήρης Χρόνος",
+            "12" : 2,
+            "14" : 2,
+            "15" : 2.5,
+            "16" : "Πλήρης Χρόνος",
+            "20" : "2 ή Πλήρης Χρόνος",
+            "27" : "Πλήρης Χρόνος",
+            "28" : 2,
+            "29" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2150,9 +2337,26 @@
         "title": "401 Γ.Σ.Ν.Α.",
         "position": { "lat": 37.9908, "lng": 23.7784},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,3,5,7,8,9,10,11,12,15,20,25,26,27,28,32,33],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "2" : 2,
+            "3" : "Πλήρης Χρόνος",
+            "5" : "Πλήρης Χρόνος",
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : 3,
+            "10" : "Πλήρης Χρόνος",
+            "11" : "Πλήρης Χρόνος",
+            "12" : 2,
+            "15" : 1.5,
+            "20" : 2,
+            "25" : 1.5,
+            "26" : "Πλήρης Χρόνος",
+            "27" : 2,
+            "28" : 2.5,
+            "32" : 1,
+            "33" : "Πλήρης Χρόνος"
         }
     },
     {
@@ -2160,9 +2364,9 @@
         "title": "414 Σ.Ν.Ε.Ν.",
         "position": { "lat": 38.0604, "lng": 23.8737},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [14],
         "years": {
-
+            "14" : 2
         }
     },
     {
@@ -2170,9 +2374,28 @@
         "title": "417 ΝΙΜΙΤΣ",
         "position": { "lat": 37.9813, "lng": 23.7510},
         "link" : "Πίνακας Κενών Θέσεων: <a href='http://www.patt.gov.gr/edms/pinakas_kenon_theseon.php' target='_blank'>Link Νοσοκομείου</a> <br> Μηχανή Αναζήτησης: <a href='http://www.patt.gov.gr/edms/listes_anamonis.php' target='_blank'>Link Νοσοκομείου</a> <br> Συγκεντρωτική Λίστα: <a href='http://www.patt.gov.gr/edms/sygkentrotiki_lista.php' target='_blank'>Link Νοσοκομείου</a>",
-        "specialties": [],
+        "specialties": [1,2,3,4,5,7,8,9,10,12,13,15,16,19,20,22,26,27,28,33],
         "years": {
-
+            "1" : "Πλήρης Χρόνος",
+            "2" : "Πλήρης Χρόνος",
+            "3" : "Πλήρης Χρόνος",
+            "4" : 2,
+            "5" : "Πλήρης Χρόνος",
+            "7" : "Πλήρης Χρόνος",
+            "8" : "Πλήρης Χρόνος",
+            "9" : "Πλήρης Χρόνος",
+            "10" : "Πλήρης Χρόνος",
+            "12" : "Πλήρης Χρόνος",
+            "13" : "Πλήρης Χρόνος",
+            "15" : 2.5,
+            "16" : "Πλήρης Χρόνος",
+            "19" : 1,
+            "20" : "Πλήρης Χρόνος",
+            "22" : "Πλήρης Χρόνος",
+            "26" : "Πλήρης Χρόνος",
+            "27" : "Πλήρης Χρόνος",
+            "28" : "Πλήρης Χρόνος",
+            "33" : "Πλήρης Χρόνος"
         }
     }
 ]
