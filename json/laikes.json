@@ -1,6 +1,4 @@
-{
-  "description": "All the open markets of Thessaloniki",
-  "markets": [
+[
     {
       "day": "monday",
       "position":{"lat":40.614216, "lng":22.956407},
@@ -286,5 +284,4 @@
       "position": {"lat": 40.676754, "lng": 22.923335},
       "title": "Ιθάκης (Εύοσμος)(Σαββάτου)"
     }
-  ]
-}
+]
