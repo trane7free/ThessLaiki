@@ -4,6 +4,9 @@
     height: 100%;
 }
 /* ---------------------- html elements ----------------------------- */
+*{
+    font-family: 'Roboto', sans-serif;
+}
 html, body {
     height: 100%;
     width:100%;
@@ -32,6 +35,10 @@ select {
     outline:none;
     font-size: 15px;
     color: #62b1f6;
+    background: white;
+}
+select:hover {
+    cursor: pointer;
 }
 /* ---------------------- floating panels ----------------------------- */
 #floating-panel {
@@ -55,7 +62,6 @@ select {
     margin-bottom:-10px;
     color:#62b1f6;
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
 }
 #travelMode {
     position: absolute;
@@ -79,11 +85,16 @@ button {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     margin-bottom: 10px;
     height: 30px;
-    font-family: 'Roboto', sans-serif;
+    transition: transform 0.5s;
 }
 button:hover {
     background: white;
     color: #62b1f6;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
 }
 #directions {
     position: absolute;
@@ -97,7 +108,7 @@ button:hover {
 }
 #directions:hover {
     background: white;
-    color: #0898af;
+    color: #62b1f6;
 }
 /* ---------------------- search bar ----------------------------- */
 #pac-input {
@@ -108,39 +119,19 @@ button:hover {
     font-size: 20px;
     padding: 7px;
 }
-/* --------------------- messenger ----------------------------*/
-
-.fb-livechat {
-    display: block; !important;
-    z-index: 5
-}
 /* ---------------------- copyrights ----------------------------- */
 #copyright-section {
-    position: absolute;
-    border-radius: 10px;
-    bottom: 10px;
-    left: 42%;
+    position: fixed;
+    bottom: -5px;
+    left: 50%;
+    height: 20px;
+    padding:2px 2px 0 2px;
+    margin-left: -135px;
     border: 1px solid #999;
+    border-radius: 10px 10px 0 0;
     font-size: 12px;
-    padding:2px;
+    filter: alpha(opacity=50);
     background-color: #fff;
-    opacity: 0.7;
-    filter: alpha(opacity=50);
-    line-height: 0;
-}
-#copyright {
-    margin-bottom: -9px;
-}
-#content {
-    display:none;
-}
-#copyright-section:hover {
-    opacity: 1;
-    filter: alpha(opacity=50);
-    color: #0898af;
-}
-#copyright-section:hover  #content {
-    display:block;
 }
 /* --------------------- media responsive ----------------------------*/
 /*      height      */
@@ -191,9 +182,6 @@ button:hover {
     }
 }
 @media(max-height: 376px) {
-    #copyright-section {
-        margin-left: 100px;
-    }
     #location {
         position: absolute;
         top: 30px;
@@ -221,7 +209,7 @@ button:hover {
         margin-right: 240px;
     }
 }
-@media(max-width: 930px) {
+@media(max-width: 935px) {
     #pac-input {
         margin-right: 170px;
     }
@@ -234,15 +222,14 @@ button:hover {
 @media(max-width: 654px) {
     #pac-input {
         margin-top: 52px;
+        margin-right: 0;
+    }
+    #directions {
+        top: 100px;
     }
 }
 @media(max-width: 752px){
-    #pac-input {
-        margin-right: 1%;
-        width: 250px;
-        border-radius: 10px;
-        font-size: 20px;
-    }
+
     h1 {
         font-size:12px;
     }
@@ -262,17 +249,8 @@ button:hover {
         margin-bottom:5px;
         color:#62b1f6;
         font-weight: bold;
-        font-family: 'Roboto', sans-serif;
     }
-    #copyright-section {
-        position: absolute;
-        left: 35%;
-        font-size: 12px;
-    }
-    #copyright-section:hover  #content {
-        width: 190px;
-        min-height:90px;
-    }
+
     .menuIcons {
         height: 30px;
         width: 30px;
@@ -284,8 +262,12 @@ button:hover {
     }
 }
 @media(max-width: 414px) {
+
+    #travelMode {
+        right: 15px;
+    }
     #pac-input {
-        margin-right: 0;
+        margin-right: 15px;
         width: 200px;
         font-size: 15px;
     }
@@ -299,32 +281,29 @@ button:hover {
         width: 25px;
         padding-top: 2px;
     }
-    #copyright-section {
-        left: 20px;
-        font-size: 10px;
-        width: 180px;
-    }
 
-    #copyright{
-        float: right;
-    }
-    #copyright-section:hover  #content {
-        width: 190px;
-        min-height:90px;
-    }
     #directions {
         height: 50px;
         width: 50px;
         font-size:10px;
         top: 100px;
-        right: 0;
+        right: 10px;
     }
     a.ctrlq.fb-button {
         width: 50px;
         height: 50px;
     }
 }
-
+@media (max-width: 394px) {
+    #travelMode {
+        width: 210px;
+        left: auto;
+        right: 0;
+    }
+    #pac-input {
+        margin-right: 0;
+    }
+}
 
 /* Mozilla Dotted Border Remove*/
 button::-moz-focus-inner {
@@ -333,3 +312,48 @@ button::-moz-focus-inner {
 :focus {outline:none;}
 ::-moz-focus-inner {border:0;}
 
+/* Search Bar*/
+input:required, textarea:required {
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    -o-box-shadow:none;
+    box-shadow:none;
+}
+/** inputs and textarea**/
+input:not([type="submit"]), textarea {
+    outline:none;
+    display:block;
+    width:auto;
+    height: auto;
+    padding:4px 8px;
+    border:1px dashed #DBDBDB;
+    color:#3F3F3F;
+    /*border-radius*/
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+    /*transition*/
+    -webkit-transition:background 0.2s linear, box-shadow 0.6s linear;
+    -moz-transition:background 0.2s linear, box-shadow 0.6s linear;
+    -o-transition:background 0.2s linear, box-shadow 0.6s linear;
+    transition:background 0.2s linear, box-shadow 0.6s linear;
+}
+input:not([type="submit"]):active, textarea:active, input:not([type="submit"]):focus, textarea:focus {
+    background:#F7F7F7;
+    border:dashed 1px #969696;
+    /*box-shadow*/
+    -webkit-box-shadow:2px 2px 7px #E8E8E8 inset;
+    -moz-box-shadow:2px 2px 7px #E8E8E8 inset;
+    box-shadow:2px 2px 7px #E8E8E8 inset;
+}
+input:not([type="submit"]) {
+    height: 20px;
+}
+::-webkit-input-placeholder {
+    color:#BABABA;
+    font-style:italic;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+    color:#BABABA;
+    font-style:italic;
+}
